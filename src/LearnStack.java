@@ -17,5 +17,6 @@ public class LearnStack {
         System.out.println(animals.peek());
         System.out.println(animal.isEmpty());
         System.out.println(animals.contains("Horse"));
+        System.out.println(animals.peek());
     }
 }
